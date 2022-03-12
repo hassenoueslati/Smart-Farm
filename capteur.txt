@@ -1,0 +1,6 @@
+200A SSD Temperature Defectueux 0 45
+200B HDD Humidite Defectueux 10 90
+200C HDD Humidite Defectueux 10 90
+200D HDD Temperature Defectueux 0 45
+200E FRK Humidite Correct 10 90
+500K SSD Temperature Correct 0 45
